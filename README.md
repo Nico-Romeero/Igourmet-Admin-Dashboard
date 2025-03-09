@@ -27,9 +27,5 @@ Welcome to **Igourmet**, the ultimate destination for premium cheeses, cured mea
 - **MySQL** - Database for storing user, product, and order data.
 - **JWT** - Secure user authentication via JSON Web Tokens.
 
----
 
-## 🤝 Acknowledgments
 
-- Special thanks to **Hack Academy** for providing the learning resources and the opportunity to build this project.
-- Big shoutout to **React** and **Node.js** communities for their awesome frameworks and libraries that made this project possible.
